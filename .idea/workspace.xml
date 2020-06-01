@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b61b02e4-913b-4ecd-9c40-b88d7f66eb9e" name="Default Changelist" comment="" />
+    <list default="true" id="b61b02e4-913b-4ecd-9c40-b88d7f66eb9e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -179,7 +182,7 @@
       <workItem from="1590719493525" duration="1830000" />
       <workItem from="1590721331684" duration="5414000" />
       <workItem from="1590995421167" duration="1405000" />
-      <workItem from="1590996878748" duration="1390000" />
+      <workItem from="1590996878748" duration="3287000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1590997811687</created>
@@ -188,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590997811687</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="第一次提交">
+      <created>1590998293309</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1590998293309</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -210,62 +220,34 @@
     <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="233" y="0" key="#Notifications" timestamp="1589679862854">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" timestamp="1589679862854" />
-    <state x="421" y="96" key="FileChooserDialogImpl" timestamp="1589719631740">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1589719631740" />
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom" timestamp="1589726726149">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589726726149" />
-    <state width="1237" height="204" key="GridCell.Tab.0.center" timestamp="1589726726148">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1589726726148" />
-    <state width="1237" height="204" key="GridCell.Tab.0.left" timestamp="1589726726148">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1589726726148" />
-    <state width="1237" height="204" key="GridCell.Tab.0.right" timestamp="1589726726149">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1589726726149" />
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom" timestamp="1589726726149">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" timestamp="1589726726149" />
-    <state width="1237" height="204" key="GridCell.Tab.1.center" timestamp="1589726726149">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" timestamp="1589726726149" />
-    <state width="1237" height="204" key="GridCell.Tab.1.left" timestamp="1589726726149">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" timestamp="1589726726149" />
-    <state width="1237" height="204" key="GridCell.Tab.1.right" timestamp="1589726726149">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" timestamp="1589726726149" />
-    <state x="142" y="0" key="SettingsEditor" timestamp="1589603062932">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1589603062932" />
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" timestamp="1589603105457">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1589603105457" />
-    <state x="297" y="151" width="672" height="677" key="run.anything.popup" timestamp="1589717341569">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" timestamp="1589717341569" />
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1589723730636">
-      <screen x="0" y="0" width="1280" height="680" />
-    </state>
-    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1589723730636" />
+    <state x="233" y="0" key="#Notifications" />
+    <state x="233" y="0" key="#Notifications/0.0.1280.680@0.0.1280.680" />
+    <state x="421" y="96" key="FileChooserDialogImpl" />
+    <state x="421" y="96" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom" />
+    <state width="1237" height="204" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center" />
+    <state width="1237" height="204" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left" />
+    <state width="1237" height="204" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right" />
+    <state width="1237" height="204" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom" />
+    <state width="1237" height="204" key="GridCell.Tab.1.bottom/0.0.1280.680@0.0.1280.680" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center" />
+    <state width="1237" height="204" key="GridCell.Tab.1.center/0.0.1280.680@0.0.1280.680" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left" />
+    <state width="1237" height="204" key="GridCell.Tab.1.left/0.0.1280.680@0.0.1280.680" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right" />
+    <state width="1237" height="204" key="GridCell.Tab.1.right/0.0.1280.680@0.0.1280.680" />
+    <state x="142" y="0" key="SettingsEditor" />
+    <state x="142" y="0" key="SettingsEditor/0.0.1280.680@0.0.1280.680" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog" />
+    <state x="0" y="0" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup" />
+    <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" />
+    <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

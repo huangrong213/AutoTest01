@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="接口测试1.0">
+    <test verbose="2" preserve-order="true" name="资运用例">
+        <classes>
+            <class name="test1">
+                <methods>
+                    <include name="test6"/>
+                </methods>
+            </class>
+            <!--            <class name="ExcelReadTest">-->
+            <!--                <methods>-->
+            <!--                    <include name="case01"/>-->
+            <!--                </methods>-->
+            <!--            </class>-->
+        </classes>
+    </test>
+
+
+    <!-- 测试报告监听-->
+    <listeners>
+        <listener class-name="com.config.ExtentTestNGIReporterListener"/>
+    </listeners>
+
+</suite>

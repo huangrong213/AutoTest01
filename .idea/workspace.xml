@@ -2,8 +2,22 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b61b02e4-913b-4ecd-9c40-b88d7f66eb9e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/test02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/config/ExtentTestNGIReporterListenerNew.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/Case/result05290943.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/Case/result05291016.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestOutput/Case/result05291059.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/config/header.properties" beforeDir="false" afterPath="$PROJECT_DIR$/config/header.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/config/ExtentTestNGIReporterListener.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/util/ExcelHandle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/util/ExcelHandle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ExcelReadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ExcelReadTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test02.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test02.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/config/ExtentTestNGIReporterListener$1.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/config/ExtentTestNGIReporterListener.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/util/ExcelHandle.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/util/ExcelHandle.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/ExcelReadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ExcelReadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test-output/mytest.html" beforeDir="false" afterPath="$PROJECT_DIR$/test-output/mytest.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -60,7 +74,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../DistriiAPITest-master" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
@@ -90,6 +104,9 @@
     </option>
   </component>
   <component name="RunManager" selected="TestNG.E:/工作开发代码/JAVA/AutoTest01/testng.xml">
+    <configuration name="mytest.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AutoTest01/test-output/mytest.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="E:/工作开发代码/JAVA/AutoTest01/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutoTest01" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -100,22 +117,11 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ExcelReadTest" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="ExcelReadTest.ziyunTest" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutoTest01" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ExcelReadTest" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ExcelReadTest.case01" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutoTest01" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ExcelReadTest" />
-      <option name="METHOD_NAME" value="case01" />
+      <option name="METHOD_NAME" value="ziyunTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -123,23 +129,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="test1.test5" type="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="test02.test06" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="AutoTest01" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="test1" />
+      <option name="MAIN_CLASS_NAME" value="test02" />
+      <option name="METHOD_NAME" value="test06" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test02.test5" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="AutoTest01" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="test02" />
       <option name="METHOD_NAME" value="test5" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="test1.test6" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="AutoTest01" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="test1" />
-      <option name="METHOD_NAME" value="test6" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -150,10 +156,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="TestNG.E:/工作开发代码/JAVA/AutoTest01/testng.xml" />
-        <item itemvalue="TestNG.test1.test6" />
-        <item itemvalue="TestNG.ExcelReadTest.case01" />
-        <item itemvalue="TestNG.test1.test5" />
-        <item itemvalue="TestNG.ExcelReadTest" />
+        <item itemvalue="TestNG.ExcelReadTest.ziyunTest" />
+        <item itemvalue="JavaScript Debug.mytest.html" />
+        <item itemvalue="TestNG.test02.test06" />
+        <item itemvalue="TestNG.test02.test5" />
       </list>
     </recent_temporary>
   </component>
@@ -182,7 +188,8 @@
       <workItem from="1590719493525" duration="1830000" />
       <workItem from="1590721331684" duration="5414000" />
       <workItem from="1590995421167" duration="1405000" />
-      <workItem from="1590996878748" duration="3287000" />
+      <workItem from="1590996878748" duration="8370000" />
+      <workItem from="1591059761418" duration="20486000" />
     </task>
     <task id="LOCAL-00001" summary="第一次提交">
       <created>1590997811687</created>
@@ -198,7 +205,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590998293309</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="测试提交到分支">
+      <created>1591000205789</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591000205789</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -209,7 +223,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
@@ -217,7 +233,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="第一次提交" />
-    <option name="LAST_COMMIT_MESSAGE" value="第一次提交" />
+    <MESSAGE value="测试提交到分支" />
+    <option name="LAST_COMMIT_MESSAGE" value="测试提交到分支" />
   </component>
   <component name="WindowStateProjectService">
     <state x="233" y="0" key="#Notifications" />
@@ -248,16 +265,5 @@
     <state x="297" y="151" width="672" height="677" key="run.anything.popup/0.0.1280.680@0.0.1280.680" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup" />
     <state x="303" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/com/util/ExcelHandle.java</url>
-          <line>100</line>
-          <option name="timeStamp" value="22" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>

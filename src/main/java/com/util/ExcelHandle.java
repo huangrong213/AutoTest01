@@ -18,13 +18,19 @@ public class ExcelHandle {
     /**
      * 读取完excel后的工作
      *
-     * @param filePath
      * @return
      */
-    public static List<ExcelCases> excelRead_Handle(String filePath) {
+    public static List<ExcelCases> excelRead_Handle() {
+
+        //获取当前项目路径
+        String path = System.getProperty("user.dir");
+        String fullPath = path + "\\case\\case01.xlsx";//读取的excel文件
+
+        //要执行的sheet名称
+//        String sheetName = "";
 
         //读取excel
-        List<ExcelCases> list = ExcelReader.readExcel(filePath);
+        List<ExcelCases> list = ExcelReader.readExcel(fullPath);
         for (ExcelCases cases : list) {
 
             //如果是否执行等于Y

@@ -3,23 +3,18 @@
 <suite name="接口测试1.0">
     <test verbose="2" preserve-order="true" name="资运用例">
         <classes>
-            <class name="test1">
+            <class name="ExcelReadTest">
                 <methods>
-                    <include name="test6"/>
+                    <include name="ziyunTest"/>
                 </methods>
             </class>
-            <!--            <class name="ExcelReadTest">-->
-            <!--                <methods>-->
-            <!--                    <include name="case01"/>-->
-            <!--                </methods>-->
-            <!--            </class>-->
         </classes>
     </test>
 
 
     <!-- 测试报告监听-->
     <listeners>
-        <listener class-name="com.config.ExtentTestNGIReporterListener"/>
+        <listener class-name="com.config.ExtentTestNGIReporterListenerNew"/>
     </listeners>
 
 </suite>
